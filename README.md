@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/j3-H6fQCf1MMCIW7a0Ick7xBUn69tPf5KFBxsBnT_FA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hczEu/ZnRjZG4ubmV0L3Yy/L2pwZy8wMi8xNi82/OS8wNC81MDBfRl8y/MTY2OTA0NTNfR3Iy/dHJyV252c1YxZ253/VlhJeXR1dTdYZDRF/TjFZUDcuanBn)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif)]
 <h1 align="center">Hi 👋, I'm Priyansu Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJtY3kyMGZrZHduZTNtNGk5dm1tYm1pZjVtZzhleDJicDM2NmM5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
